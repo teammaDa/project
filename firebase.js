@@ -1,5 +1,10 @@
 //https://qiita.com/TakeshiNickOsanai/items/838c0f15c10a2270a109
 //を参考にした。
+//その他、利用時に参考になるかも↓
+//https://yoheiko.com/?p=1704
+//https://note.com/masaru_furuya/n/neae07b031660
+//https://note.com/masaru_furuya/n/nc8d6b623746a
+
 //firebaseアカウントは保手濱の。
 //プロジェクト名はBreadisBaked
 
